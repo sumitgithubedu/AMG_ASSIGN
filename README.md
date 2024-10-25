@@ -11,8 +11,8 @@
 
 # API Endpoints
 
-Register: POST /api/auth/register
-Login: POST /api/auth/login
-Send Notification: POST /api/notifications/send
-Fetch Notifications: GET /api/notifications
-Mark Notification as Read: PUT /api/notifications/:id/read
+- Register: POST /api/auth/register
+- Login: POST /api/auth/login
+- Send Notification: POST /api/notifications/send
+- Fetch Notifications: GET /api/notifications
+- Mark Notification as Read: PUT /api/notifications/:id/read
